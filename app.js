@@ -287,7 +287,7 @@ function hide(id) {
 
 function setText(id, value) {
   const node = document.getElementById(id);
-  node.textContent = value || "";
+  node.innerHTML = value || "";
 }
 
 const cur = document.getElementById("cur");
