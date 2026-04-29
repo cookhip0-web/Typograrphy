@@ -19,13 +19,13 @@ const state = {
       desc: "The second booklet was a project that used only typography and layout without any images. I used light blue and blue colors to represent business, showing trust and professionalism. I used one font, but I used different weights and families to create typographic hierarchy. This helped to clearly show the structure between title, body text, and emphasis, and improved readability. I also experimented with different layouts using a grid system and used a lot of white space to organize the flow of information. I applied scale, alignment, repetition, and contrast to create visual rhythm and emphasis using only text. In the end, this project explored how typography alone can communicate a message effectively and helped me expand my design expression.",
       layout: "half"
     },
-    {
-      id: 1,
-      title: "First Booklet",
-      meta: "2025 · Booklet",
-      desc: "The article is about solopreneurs who run their own business and how they can grow their business in 2026. The five tips are: identify problem and prove solution, start small amount, maximize savings, build a clear brand, and lastly plan growth. This first booklet is based on choosing an article and making it visual using a newspaper by hand. So I created a visual booklet that shows the five tips. In this first booklet, I used the texture and layout of real newspaper pages and made a real hands-on collage by cutting paper and using the booklet in a physical way. I also think that working with your hands means something that cannot be replaced by digital prints. I separated the five tips into different visual modules to make information hierarchy more clear.",
-      layout: "half"
-    }
+   {
+  id: 1,
+  title: "First Booklet",
+  meta: "2025 · Booklet",
+  desc: "The article is about solopreneurs who run their own business and how they can grow their business in 2026. The five tips are: identify problem and prove solution, start small amount, maximize savings, build a clear brand, and lastly plan growth. This first booklet is based on choosing an article and making it visual using a newspaper by hand. So I created a visual booklet that shows the five tips. In this first booklet, I used the texture and layout of real newspaper pages and made a real hands-on collage by cutting paper and using the booklet in a physical way. I also think that working with your hands means something that cannot be replaced by digital prints. I separated the five tips into different visual modules to make information hierarchy more clear. <a href=\"https://amsterdamnews.com/news/2026/02/09/5-tips-for-new-york-solopreneurs-to-grow-their-businesses-in-2026/\" target=\"_blank\" rel=\"noopener noreferrer\">See Article</a>",
+  layout: "half"
+}
   ],
   files: {
     1: [
